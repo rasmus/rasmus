@@ -2,7 +2,7 @@
 
 I'm a Site Reliability Engineer at [Schibsted](https://schibsted.com/).
 
-## My open-source projects
+#### My open-source projects
 
 - [EventFlow](https://github.com/eventflow/EventFlow)
   EventFlow is a basic CQRS+ES framework for .NET designed to be easy to use.

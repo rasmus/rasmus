@@ -9,3 +9,5 @@ I'm a Site Reliability Engineer at [Schibsted](https://schibsted.com/).
 - [Bake](https://github.com/rasmus/Bake)
   Bake is a convention based build command that I created to make it easier
   for myself to create small hobby projects
+- [Talks](https://github.com/rasmus/talks)
+  Talks that I have done.

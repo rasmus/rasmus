@@ -1,6 +1,6 @@
 ### Hi there, I'm Rasmus 👋
 
-I'm a Staff Site Reliability Engineer at [Schibsted](https://schibsted.com/).
+I'm a Staff Site Reliability Engineer at [Vend](https://vend.com/).
 
 #### My open-source projects
 
